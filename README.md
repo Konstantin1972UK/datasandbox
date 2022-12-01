@@ -1,3 +1,3 @@
-# datasandbox1
+# datasandbox
 my work with data visualization
 https://datasandbox.herokuapp.com/
